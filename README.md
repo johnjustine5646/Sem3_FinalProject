@@ -1,5 +1,4 @@
-# Multimodal Recommendation System
-** This file is a bit huge please download it to view it fully!! **
+# Multimodal Recommendation System( This file is a bit huge please download it to view it fully!! )
 This repository contains the implementation of a Multimodal Recommendation System, leveraging text and image embeddings to provide product recommendations. The system integrates natural language processing (NLP) and computer vision (CV) models to create a robust solution for e-commerce applications.
 
 ---
